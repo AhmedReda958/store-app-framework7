@@ -1,0 +1,10 @@
+.star-rate {
+  font-size: 1.5rem;
+  display: flex;
+  .on {
+    color: gold;
+  }
+  .off {
+    color: #ccc;
+  }
+}

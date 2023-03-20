@@ -1,0 +1,19 @@
+{
+  "cwd": "D:\\Code\\framework7",
+  "type": [
+    "web"
+  ],
+  "name": "My App",
+  "framework": "react",
+  "template": "tabs",
+  "cssPreProcessor": "scss",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
